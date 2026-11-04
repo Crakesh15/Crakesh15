@@ -54,7 +54,7 @@ I am interested in identifying security vulnerabilities, analyzing threats, and 
 ### Additional Projects
 
 7. Mobile App Security
-8. [Add your 8th project name]
+8. Alcohol Consumption Amoung College Students
 
 ---
 
