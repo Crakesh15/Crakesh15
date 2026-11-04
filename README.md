@@ -42,31 +42,18 @@ Worked on security analysis and cybersecurity methodologies
 
 Mobile App Security
 
-🛠️ Technical Skills
+## 🛠️ Technical Skills
 
-TOOLS
+### Security Tools
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white)
 
-Kali Linux
+### Cybersecurity Domains
+![VAPT](https://img.shields.io/badge/VAPT-Penetration_Testing-red?style=for-the-badge)
+![Web Security](https://img.shields.io/badge/Web_Security-Application_Security-blue?style=for-the-badge)
+![Network Security](https://img.shields.io/badge/Network_Security-Cybersecurity-green?style=for-the-badge)
 
-Burp Suite
-
-Nmap
-
-DOMAINS
-
-Vulnerability Assessment & Penetration Testing (VAPT)
-
-Ethical Hacking
-
-Web Application Security
-
-Network Security
-
-Secure Code Review
-
-Mobile Application Security
-
-IoT Security
 
 🚀 Cybersecurity Projects
 
@@ -107,3 +94,7 @@ GitHub: Crakesh15
 LinkedIn: Add your LinkedIn profile URL
 
 Location: Chennai, Tamil Nadu, India
+
+
+
+
