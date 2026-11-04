@@ -38,6 +38,10 @@ Gained practical and research experience
 
 Worked on security analysis and cybersecurity methodologies
 
+🚀 Featured Projects
+
+Mobile App Security
+
 🛠️ Technical Skills
 
 TOOLS
