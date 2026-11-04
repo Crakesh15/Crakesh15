@@ -38,10 +38,6 @@ Gained practical and research experience
 
 Worked on security analysis and cybersecurity methodologies
 
-🚀 Featured Projects
-
-Mobile App Security
-
 ## 🛠️ Technical Skills
 
 ### Security Tools
@@ -54,20 +50,20 @@ Mobile App Security
 ![Web Security](https://img.shields.io/badge/Web_Security-Application_Security-blue?style=for-the-badge)
 ![Network Security](https://img.shields.io/badge/Network_Security-Cybersecurity-green?style=for-the-badge)
 
+## 🚀 Cybersecurity Projects
 
-🚀 Cybersecurity Projects
+### Internship Projects – Spinnaker Analytics
+- Phishing Incident Analysis
+- Mobile Banking Security
+- Secure Code Review Framework
+- Enterprise Multi-Factor Authentication (MFA)
+- Web Application Firewall (WAF)
+- Secure IoT Firmware Updates
 
-Phishing Incident Analysis
+### Additional Project
+- [Mobile App Security](https://github.com/Crakesh15/mobile-app-security)
 
-Mobile Banking Security
 
-Secure Code Review Framework
-
-Enterprise Multi-Factor Authentication (MFA)
-
-Web Application Firewall (WAF)
-
-Secure IoT Firmware Updates
 
 🔬 Research Project
 
