@@ -50,18 +50,21 @@ Worked on security analysis and cybersecurity methodologies
 ![Web Security](https://img.shields.io/badge/Web_Security-Application_Security-blue?style=for-the-badge)
 ![Network Security](https://img.shields.io/badge/Network_Security-Cybersecurity-green?style=for-the-badge)
 
-## 🚀 Cybersecurity Projects
+
+## 🚀 Cybersecurity Project Portfolio
 
 ### Internship Projects – Spinnaker Analytics
-- Phishing Incident Analysis
-- Mobile Banking Security
-- Secure Code Review Framework
-- Enterprise Multi-Factor Authentication (MFA)
-- Web Application Firewall (WAF)
-- Secure IoT Firmware Updates
+1. [Phishing Incident Analysis](YOUR_REPOSITORY_LINK)
+2. [Mobile Banking Security](YOUR_REPOSITORY_LINK)
+3. [Secure Code Review Framework](YOUR_REPOSITORY_LINK)
+4. [Enterprise MFA](YOUR_REPOSITORY_LINK)
+5. [Web Application Firewall (WAF)](YOUR_REPOSITORY_LINK)
+6. [Secure IoT Firmware Updates](YOUR_REPOSITORY_LINK)
 
-### Additional Project
-- [Mobile App Security](https://github.com/Crakesh15/mobile-app-security)
+### Additional Projects
+7. [Mobile App Security](YOUR_REPOSITORY_LINK)
+8. [Additional Cybersecurity Project](YOUR_REPOSITORY_LINK)
+
 
 
 
