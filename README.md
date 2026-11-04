@@ -1,99 +1,103 @@
-Hi, I'm C. Rakesh 👋
 
-Cybersecurity Enthusiast | Ethical Hacking | VAPT
 
-🎓 B.A. Criminology & Police Administration
 
-🎓 Postgraduate Master Diploma in Cybersecurity
 
-🎓 Postgraduate Master Diploma in Ethical Hacking
+# Hi, I'm C.Rakesh 👋
 
-💼 Cybersecurity Intern – Spinnaker Analytics (6 Months)
+## Cybersecurity | Junior VAPT Analyst | Penetration Testing
 
-👨‍💻 About Me
+🎓 B.A. Criminology and Police Administration  
+🎓 Master Diploma in Cybersecurity  
+🎓 Master Diploma in Ethical Hacking  
 
-I'm a cybersecurity enthusiast with an academic background in Criminology and Police Administration and postgraduate training in Cybersecurity and Ethical Hacking.
+💻 Cybersecurity Intern – Spinnaker Analytics  
+📍 Chennai, Tamil Nadu, India  
 
-I completed a 6-month cybersecurity internship at Spinnaker Analytics, where I worked on six cybersecurity projects involving practical and research-based security activities.
+---
 
-My interests include Vulnerability Assessment & Penetration Testing (VAPT), ethical hacking, web application security, network security, and security research.
+## 👨‍💻 About Me
 
-🎓 Education
+I am an aspiring cybersecurity professional with an academic background in Criminology and Police Administration and specialized training in Cybersecurity and Ethical Hacking.
 
-B.A. Criminology & Police Administration
+I completed a 6-month cybersecurity internship at Spinnaker Analytics and worked on multiple cybersecurity projects involving vulnerability analysis, web application security, mobile security, authentication, and IoT security.
 
-Postgraduate Master Diploma in Cybersecurity
+I am interested in identifying security vulnerabilities, analyzing threats, and improving application and network security.
 
-Postgraduate Master Diploma in Ethical Hacking
-
-💼 Internship Experience
-
-Cybersecurity Intern – Spinnaker Analytics
-
-Duration: 6 Months
-
-Completed 6 cybersecurity projects
-
-Gained practical and research experience
-
-Worked on security analysis and cybersecurity methodologies
+---
 
 ## 🛠️ Technical Skills
 
-### Security Tools
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white)
+- Kali Linux
+- Burp Suite
+- Nmap
+- Vulnerability Assessment
+- Penetration Testing Fundamentals
+- Web Application Security
+- Mobile Application Security
+- Phishing Analysis
+- Secure Code Review
+- Network Security
 
-### Cybersecurity Domains
-![VAPT](https://img.shields.io/badge/VAPT-Penetration_Testing-red?style=for-the-badge)
-![Web Security](https://img.shields.io/badge/Web_Security-Application_Security-blue?style=for-the-badge)
-![Network Security](https://img.shields.io/badge/Network_Security-Cybersecurity-green?style=for-the-badge)
+---
 
+## 🚀 Cybersecurity Projects
 
-## 🚀 Cybersecurity Project Portfolio
+### Internship Projects
 
-### Internship Projects – Spinnaker Analytics
-1. [Phishing Incident Analysis](YOUR_REPOSITORY_LINK)
-2. [Mobile Banking Security](YOUR_REPOSITORY_LINK)
-3. [Secure Code Review Framework](YOUR_REPOSITORY_LINK)
-4. [Enterprise MFA](YOUR_REPOSITORY_LINK)
-5. [Web Application Firewall (WAF)](YOUR_REPOSITORY_LINK)
-6. [Secure IoT Firmware Updates](YOUR_REPOSITORY_LINK)
+1. Phishing Incident Analysis
+2. Mobile Banking Security
+3. Secure Code Review Framework
+4. Enterprise Multi-Factor Authentication (MFA)
+5. Web Application Firewall (WAF)
+6. Secure IoT Firmware Updates
 
 ### Additional Projects
-7. [Mobile App Security](YOUR_REPOSITORY_LINK)
-8. [Additional Cybersecurity Project](YOUR_REPOSITORY_LINK)
 
+7. Mobile App Security
+8. [Add your 8th project name]
 
+---
 
+## 🎓 Education
 
-🔬 Research Project
+- B.A. Criminology and Police Administration – A.M. Jain College
+- Master Diploma in Cybersecurity
+- Master Diploma in Ethical Hacking
 
-Alcohol Consumption Among College Students
+---
 
-Research conducted during my undergraduate studies in Criminology and Police Administration.
+## 💼 Internship
 
-🎯 Career Objective
+**Cybersecurity Intern – Spinnaker Analytics**
 
-Aspiring cybersecurity professional seeking opportunities in:
+Duration: 6 Months
 
-Junior VAPT Analyst
+- Completed six cybersecurity internship projects.
+- Explored web application security and vulnerability analysis.
+- Worked on mobile banking security and phishing incident analysis.
+- Studied secure code review and authentication security.
+- Explored IoT firmware security and WAF concepts.
 
-Junior Penetration Tester
+---
 
-Cybersecurity Analyst
+## 📄 Resume
 
-Security Analyst
+[Download My Cybersecurity Resume]()
 
-📫 Connect With Me
+---
 
-GitHub: Crakesh15
+## 🎯 Career Interests
 
-LinkedIn: Add your LinkedIn profile URL
+- Junior VAPT Analyst
+- Junior Penetration Tester
+- Cybersecurity Analyst
+- Security Analyst
 
-Location: Chennai, Tamil Nadu, India
+---
 
+## 📫 Connect With Me
 
+- GitHub: https://github.com/Crakesh15
+- LinkedIn: [https://www.linkedin.com/in/c-rakesh-cybersecurity/]
 
-
+---
