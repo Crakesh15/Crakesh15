@@ -82,7 +82,7 @@ Duration: 6 Months
 
 ## 📄 Resume
 
-[Download My Cybersecurity Resume]()
+[Download My Cybersecurity Resume](https://github.com/Crakesh15/Resume/blob/main/Rakesh%20C%20-%20Cybersecurity%20Resume%20(1).docx)
 
 ---
 
